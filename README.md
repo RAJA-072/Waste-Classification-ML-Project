@@ -125,6 +125,6 @@ waste-classification/
 ## **Acknowledgments**
 - TensorFlow for providing robust machine learning frameworks.
 - OpenCV for real-time image processing capabilities.
-- Arduino for enabling seamless hardware integration.
+- Arduino for enabling seamless hardware integration
 
 ---
