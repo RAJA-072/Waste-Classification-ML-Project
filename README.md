@@ -16,7 +16,7 @@ This project integrates a machine learning-based waste classification system wit
 
 - **Real-Time Camera Integration**:
   - Captures video feed from a computer or external camera using OpenCV.
-  - Preprocesses frames in real-time for model predictions.
+  - Preprocesses frames in real-time for model predictions
 
 - **Arduino Servo Control**:
   - Communicates with an Arduino via serial to control servos for waste sorting.
