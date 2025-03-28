@@ -12,7 +12,7 @@ This project integrates a machine learning-based waste classification system wit
 - **Machine Learning Model**:
   - Built using TensorFlow/Keras with a CNN model for classifying waste.
   - Classifies waste into categories like `plastic`, `paper`, `metal`, `cardboard`, `glass`, `compost`, and `trash`.
-  - Maps waste categories into `biodegradable` and `non_biodegradable`.
+  - Maps waste categories into `biodegradable` and `non_biodegradable`
 
 - **Real-Time Camera Integration**:
   - Captures video feed from a computer or external camera using OpenCV.
