@@ -20,7 +20,7 @@ This project integrates a machine learning-based waste classification system wit
 
 - **Arduino Servo Control**:
   - Communicates with an Arduino via serial to control servos for waste sorting.
-  - Sends commands like `biodegradable` or `non_biodegradable` to Arduino based on predictions.
+  - Sends commands like `biodegradable` or `non_biodegradable` to Arduino based on predictions
 
 - **Dynamic Decision Logic**:
   - Implements a confidence threshold to ensure accurate predictions.
