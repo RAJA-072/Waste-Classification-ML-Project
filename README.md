@@ -5,7 +5,7 @@
 
 
 
-This project integrates a machine learning-based waste classification system with real-time camera processing and Arduino-controlled servo motors. It classifies waste into **biodegradable** and **non-biodegradable** categories and controls hardware actions based on the classification
+This project integrates a machine learning-based waste classification system with real-time camera processing and Arduino-controlled servo motors. It classifies waste into **biodegradable** and **non-biodegradable** categories and controls hardware actions based on the classification.
 ---
 
 ## **Features**
