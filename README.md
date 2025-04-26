@@ -24,7 +24,7 @@ This project integrates a machine learning-based waste classification system wit
 
 - **Dynamic Decision Logic**:
   - Implements a confidence threshold to ensure accurate predictions.
-  - Processes predictions over a time interval for better reliability.
+  - Processes predictions over a time interval for better reliability
 
 ---
 
