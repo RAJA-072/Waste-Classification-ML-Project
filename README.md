@@ -114,6 +114,11 @@ waste-classification/
 
 ---
 
+## **DEMO**
+
+https://github.com/user-attachments/assets/deeea083-3c53-4ddf-81e0-2bf3429d70ba
+
+---
 ## **Future Enhancements**
 - Integrate a mobile app for remote monitoring.
 - Use advanced models like VGG16 or ResNet for improved accuracy.
